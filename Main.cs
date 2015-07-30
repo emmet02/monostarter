@@ -10,6 +10,7 @@ namespace monostarter
 			Application.Init ();
 			MainWindow win = new MainWindow ();
 			win.Show ();
+			string s = "asdsa";
 			Application.Run ();
 		}
 	}
